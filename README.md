@@ -1,2 +1,2 @@
 # recipe-page
-Desafio de HTML e CSS! Instruções seguidas pela plataforma da Discover.
+Desafio de HTML e CSS! Instruções seguidas pela plataforma da Discover. Ainda não totalmente completo...
