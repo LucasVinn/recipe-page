@@ -1,0 +1,79 @@
+
+:root {
+    --page-background: #EAEAEA;
+    --recipe-background: #FFFFFf;
+    --titles: #1B1B1B;
+    --footer-image-legend: #8F8F8F;
+    --other-texts: #39393A;
+}
+
+body {
+    font-family: 'Roboto';
+    background-color: var(--page-background);
+}
+
+.container {
+    width: 50%;
+    background-color: var(--recipe-background);
+    
+    border-radius: .5rem;
+
+
+    margin-left: 23.6rem;
+}
+
+h1,
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    padding-top: 4rem;
+}
+
+.legend {
+    padding-left: 28.5rem;
+    color: var(--footer-image-legend);
+}
+
+.waffle {
+    border-radius: 1rem;
+    margin-left: 1rem;
+}
+
+.curiosidade {
+    padding-top: 1rem;
+    margin-left: 1.5rem;
+    padding-bottom: rem;
+
+    height: 5rem;
+}
+
+.li-1 {
+    padding-top: 1rem;
+}
+
+.li-5 {
+    padding-bottom: 1rem;
+}
+
+footer {
+    text-align: center;
+}
+
+.image {
+    padding-bottom: 1rem;
+}
+
+
+a {
+    color: purple;
+    text-decoration: none;
+}
+/*
+width: 50%;
+background-color: var(--recipe-background);
+
+border-radius: .5rem;
+*/
